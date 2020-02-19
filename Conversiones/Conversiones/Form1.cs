@@ -48,6 +48,26 @@ namespace Conversiones
             txtsolucion.Text = "?";
             txtcantidad.Text = "1";
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            txtcantidad.Text = " ";
+            txtsolucion.Text = " ? ";
+
+        }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("¿Desea Salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == System.Windows.Forms.DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+
+        private void Label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
     }
 
