@@ -1,0 +1,21 @@
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\programacionII_estadistica.exe.config
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\programacionII_estadistica.exe
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\programacionII_estadistica.pdb
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.csprojResolveAssemblyReference.cache
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.Properties.Resources.resources
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.csproj.GenerateResource.Cache
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.exe
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.pdb
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\Sistema.mdf
+D:\Desktop\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\Sistema_log.ldf
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\Sistema.mdf
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\Sistema_log.ldf
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\programacionII_estadistica.exe.config
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\programacionII_estadistica.exe
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\programacionII_estadistica.pdb
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.csprojAssemblyReference.cache
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.Properties.Resources.resources
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.csproj.GenerateResource.cache
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.csproj.CoreCompileInputs.cache
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.exe
+G:\UGB\Programacion\Luis Enrique\Nueva carpeta (2)\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.pdb
